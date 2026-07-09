@@ -78,11 +78,4 @@ Q-learning based satellite network routing built at NIT Delhi — achieved a 49%
 
 ---
 
-## 💭 Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-
 <p align="center"><i>⭐️ From <a href="https://github.com/bytecraft17">bytecraft17</a></i></p>
