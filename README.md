@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=820&height=44&lines=ML%20Engineer%20%7C%20Building%20AI%20for%20real-world%20diagnostics;Deep%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Data%20Science" alt="Typing headlines" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bytecraft17&color=2ea043&style=flat" alt="Profile Views" />
+</p>
+
 ## 🚀 About Me
 ML/Data Science engineer building deep learning systems for real-world problems — from Neonatal Diagnostics to Air Quality Forecasting. B.Tech CSE graduate, currently exploring opportunities in AI/ML and data ops.
 
@@ -18,6 +22,19 @@ ML/Data Science engineer building deep learning systems for real-world problems 
 - 💬 Ask me about **Deep Learning, Computer Vision, AQI forecasting, Neonatal AI, or GitHub Actions/Git LFS workflows**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: My GitHub is 98% Jupyter Notebooks — I basically live in `.ipynb` files
+
+---
+
+## 🩺 Featured Projects
+
+### [NeoScan AI](https://github.com/bytecraft17/NeoScan-AI)
+A 4-module neonatal diagnostic deep learning platform (Skin, Eye, Face, Body) using EfficientNetB3/B4, ResNet50, and a VGG16+ViT ensemble. FastAPI backend with a bilingual frontend.
+
+### [AQI Forecasting System](https://github.com/bytecraft17/AQI-Project)
+Air quality forecasting for Delhi-NCR using XGBoost, K-Means, and Facebook Prophet on CPCB station data.
+
+### [Satellite-QL-Routing](https://github.com/bytecraft17/Satellite-QL-Routing)
+Q-learning based satellite network routing built at NIT Delhi — achieved a 49% throughput improvement over baseline (74.49 vs 50.03 Mbps).
 
 ---
 
@@ -41,6 +58,18 @@ ML/Data Science engineer building deep learning systems for real-world problems 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bytecraft17&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecraft17&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/diksha17/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -48,11 +77,6 @@ ML/Data Science engineer building deep learning systems for real-world problems 
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bytecraft17&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
 
 ## 💭 Dev Quote
 <p align="center">
